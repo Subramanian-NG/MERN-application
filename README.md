@@ -15,7 +15,5 @@ Tech stack used
 
 Steps to start the application
 
-- To start backend node server
-  npm run startserver
-- To start frontend react server
-  npm start
+- To start backend node server - npm run startserver
+- To start frontend react server - npm start
