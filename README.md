@@ -7,6 +7,8 @@ Simple web application for expense management with basic CRUD operations using M
 - delete expense
 - update expense
 
+Tech stack used
+
 - Front end - React
 - Backend - Node, Express server
 - Database - MongoDB
